@@ -5,7 +5,7 @@ import datetime
 import os
 
 # Backend API URL
-API_URL = "http://0.0.0.0:8000/chat/"
+API_URL = "https://basic-chatbot-a5fs.onrender.com/chat/"
 
 # Path for chat history storage
 history_file = "data/chat_history.json"
