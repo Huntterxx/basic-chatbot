@@ -24,7 +24,7 @@ langchain-text-splitters==0.3.6
 langsmith==0.3.8
 lxml==5.3.1
 lxml_html_clean==0.4.1
-mkl-service==2.4.1
+mkl-service==2.4.2
 newspaper4k==0.9.3.1
 ollama==0.4.7
 openai==1.63.2
